@@ -1,6 +1,5 @@
 ## 15팀_튀김조심의 아름들기 프로젝트🌸
- <img src="/presentation/아름들기2.png" height="100px" align="center"/>
- 
+
 ### 1. 문제 인식
  >인구 고령화 현상으로 노년층이 증가하고 있고, 여전히 배움의 기회를 원하는 분들이 많습니다.  
  하지만 대부분은 젊은층을 타겟팅할 뿐, *노년층을 대상으로 교육을 집중 제공하는 플랫폼*은 찾기 어려웠습니다.  
@@ -30,7 +29,7 @@
   >- 송가인이 알려주는 “한 많은 대동강”
   >- 최신 유행 트로트 같이 배워 봐요~  
   > **1) MAIN**
-   </br> <img src="/presentation/main.gif" height="450px" align="center"/></br>
+   </br> <img src="https://github.com/gdsckoreahackathon2022/15_areum-deulgi/blob/master/presentation/main.gif?raw=true" height="450px" align="center"/></br>
    main page에 방문하시면 따스한 로고와 문구가 어르신 분들을 맞이합니다.
    편안함을 주는 파스텔톤의 포스트잇 위에 놓여진 네 가지 주제를 자유롭게 살펴볼 수 있습니다.
    '요리'는 가족들과 함께할 수 있는 레시피를 소개해드리며, 특히 손자와 함께할 수 있는 최신 유행 음식 관련 영상도 제공합니다.
@@ -39,10 +38,12 @@
    '음악'은 추억의 노래를 다시 돌아보거나, 어르신들을 위한 음악 교실 컨텐츠를 제공합니다.
    
  > **2) CLASS LIST**
- </br> <img src="/presentation/class list.gif" height="450px" align="center"/></br>
+ </br> <img src="https://github.com/gdsckoreahackathon2022/15_areum-deulgi/blob/master/presentation/class%20list.gif" height="450px" align="center"/></br>
  > **3) DETAIL**
- </br> <img src="/presentation/detail.gif" height="450px" align="center"/></br>
+ </br> <img src="https://github.com/gdsckoreahackathon2022/15_areum-deulgi/blob/master/presentation/detail2.gif" height="450px" align="center"/></br>
  > **4) SIGN UP / LOG IN**
+ </br> <img src="https://github.com/gdsckoreahackathon2022/15_areum-deulgi/raw/master/presentation/signup2.gif" height="450px" align="center"/></br>
+
  
 ### 4. 기대 효과
  
